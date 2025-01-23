@@ -2,7 +2,7 @@
 
 🚀 **Empowering the Future of Cybersecurity** 🚀
 
-Welcome to **Chronos Security**, a cybersecurity firm committed to advancing education, training, and innovation in the digital security space. We strive to inspire, empower, and equip individuals and organizations to tackle cybersecurity challenges with confidence and skill.
+Welcome to **Chronos Security**, a cybersecurity initiative committed to advancing education, training, and innovation in the digital security space. We strive to inspire, empower, and equip individuals and organizations to tackle cybersecurity challenges with confidence and skill.
 
 <br>
 
