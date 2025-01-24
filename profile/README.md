@@ -78,7 +78,7 @@ We are relentless in our pursuit of excellence, driven by:
 ## 🤝 **Connect With Us**
 - 🌐 [Official Website](https://chronos-security.ro)
 - 🔗 [LinkedIn](https://www.linkedin.com/company/chronos-security)
-- 💌 Contact: [info@chronos-security.ro](mailto:info@chronos-security.ro)
+- 💌 Contact: [admin@chronos-security.ro](mailto:admin@chronos-security.ro)
 
 <br>
 
